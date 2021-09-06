@@ -14,5 +14,6 @@ namespace GitLearning.Models
 
         public string Address { get; set; }
         public string Phone { get; set; }
+        public int Age { get; set; }
     }
 }
